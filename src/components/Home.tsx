@@ -8,7 +8,7 @@ const Home: React.FC = () => {
     }
     return (
         <div>
-            <h1>Home</h1>
+            <h1>Home1</h1>
             <button onClick={handleClick}>Go to About</button>
         </div>
     );
